@@ -1,6 +1,6 @@
 > # **Preprint Notice / Temporary Draft**  
 > This repository contains a temporary draft of our manuscript: **"Uncovering Cellular Resolution in scRNAseq via Unbiased Cell and Gene Network Analysis"**.  
-> This work is currently undergoing final edits and has been submitted to **arXiv, link to appear here**.  
+> This work is currently undergoing final edits and has been submitted to **arXiv, [link](https://doi.org/10.48550/arXiv.2608.22982)**.  
 > The code, data, and draft PDF provided here are subject to updates.
 
 # Uncovering Cellular Resolution in scRNAseq via Unbiased Cell and Gene Network Analysis
