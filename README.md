@@ -10,7 +10,8 @@
 ---
 
 ##  Manuscript Draft
-The latest draft PDF is available in this repository: [`draft.pdf`] and arXiv (to come)
+The latest draft PDF is available in this repository: [`draft.pdf`] and arXiv [`https://doi.org/10.48550/arXiv.2608.22982`]
+
 
 ---
 
